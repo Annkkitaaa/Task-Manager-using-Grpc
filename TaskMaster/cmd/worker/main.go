@@ -2,8 +2,7 @@ package main
 
 import (
 	"flag"
-
-	"github.com/JyotinderSingh/task-queue/pkg/worker"
+	"github.com/Annkkitaaa/task-manager-using-grpc/TaskMaster/pkg/worker"
 )
 
 var (
