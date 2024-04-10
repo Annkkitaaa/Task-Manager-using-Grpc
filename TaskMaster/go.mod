@@ -1,4 +1,4 @@
-module github.com/JyotinderSingh/task-queue
+module github.com/Annkkitaaa/task-manager-using-grpc/TaskMaster
 
 go 1.21
 
