@@ -3,8 +3,8 @@ package main
 import (
 	"flag"
 
-	"github.com/JyotinderSingh/task-queue/pkg/common"
-	"github.com/JyotinderSingh/task-queue/pkg/coordinator"
+	"github.com/Annkkitaaa/task-manager-using-grpc/TaskMaster/pkg/common"
+	"github.com/Annkkitaaa/task-manager-using-grpc/TaskMaster/pkg/coordinator"
 )
 
 var (
